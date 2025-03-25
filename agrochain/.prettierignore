@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+build/
+dist/
+
+# Generated files
+coverage/
+*.json
+*.lock
+
+# Environment files
+.env*
